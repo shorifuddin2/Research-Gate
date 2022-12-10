@@ -3,3 +3,8 @@
 .banner{
     background-color: crimson;
 }
+
+.footer{
+    background-color: gray;
+    margin-top: 20px;
+}
